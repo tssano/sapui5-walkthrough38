@@ -59,3 +59,8 @@ typings/
 
 # next.js build output
 .next
+
+# Added
+.vscode/
+sapui5-rt-1.69.0/
+dist/
